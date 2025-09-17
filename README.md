@@ -29,7 +29,7 @@ The total Bootcamp material would take approximately 3 hours and 30 minutes, whi
 
 ## Deploying the Bootcamp Material
 
-To deploy the Labs, please refer to the deployment guide presented [here](https://github.com/programmah/WIP-nemo-challenge-bootcamp/blob/main/Deployment_Guide.md)
+To deploy the Labs, please refer to the deployment guide presented [here](https://github.com/openhackathons-org/NeMo-Challenge-Bootcamp/blob/main/Deployment_Guide.md)
 
 
 ## Attribution
